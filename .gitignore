@@ -157,7 +157,7 @@ while True:
     derecha()
     # izquierda()
 
-###5.	Quinto
+##5.	Quinto
 
 from machine import Pin as pin
 from utime import sleep as pausa, sleep_ms as pausam
